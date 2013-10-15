@@ -37,7 +37,7 @@ $(document).ready(function() {
 	}
 
 	var question = [];
-	question[0] = new quizCore("What are some advantages of using jQuery?", 5, "It simplifies Javascript-based applications", "It addresses browser compatibility issues", "It makes it easier to introduce dynamic ui behaviour", "It makes it easier to introduce dynamic ui behaviour", "All of the above");
+	question[0] = new quizCore("What are some advantages of using jQuery?", 5, "It simplifies Javascript-based applications", "It addresses browser compatibility issues", "It makes it easier to introduce dynamic ui behaviour", "It improves the readability of Javascript applications", "All of the above");
 	
 	question[1] = new quizCore("What are some disadvantages of using jQuery?", 4, "It is a new skill to be learned", "It introduces a bit of overhead to Javascript", "Advanced troubleshooting may require a deeper understanding of the api implementation", "All of the above", "None of the above");	
 			
