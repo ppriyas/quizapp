@@ -48,15 +48,3 @@ button {
 	height: 40px;
 }
 
-.remove {
-	width: 100px;
-	height: 30px;
-}
-
-.checkout {
-	display: none;
-}
-
-.singlecheck {
-	margin: 0 5px 0 0;
-}
